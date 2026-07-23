@@ -1,0 +1,39 @@
+# ==========================
+# ANGULAR
+# ==========================
+
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/.cache/
+
+# ==========================
+# PYTHON
+# ==========================
+
+backend/venv/
+backend/__pycache__/
+backend/.pytest_cache/
+*.pyc
+
+# ==========================
+# VARIABLES DE ENTORNO
+# ==========================
+
+backend/.env
+
+# ==========================
+# macOS
+# ==========================
+
+.DS_Store
+
+# ==========================
+# LOGS
+# ==========================
+
+*.log
+
+# VS Code
+.vscode/
+frontend/.vscode/
